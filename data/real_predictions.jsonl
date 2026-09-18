@@ -11,4 +11,5 @@
 {"target_issue": "2026248", "kill": 1, "win": 90, "k": 64, "published_at": "2026-09-14 14:27:23", "last_issue": "2026247", "last_draw": "609", "top3": [1, 5, 6], "num": "876", "tens": 7, "hit": true}
 {"target_issue": "2026249", "kill": 1, "win": 30, "k": 40, "published_at": "2026-09-15 14:24:09", "last_issue": "2026248", "last_draw": "876", "top3": [1, 5, 6], "num": "689", "tens": 8, "hit": true}
 {"target_issue": "2026250", "kill": 1, "win": 90, "k": 96, "published_at": "2026-09-16 14:25:46", "last_issue": "2026249", "last_draw": "689", "top3": [1, 6, 8], "num": "954", "tens": 5, "hit": true}
-{"target_issue": "2026251", "kill": 7, "win": 50, "k": 80, "published_at": "2026-09-17 14:24:19", "last_issue": "2026250", "last_draw": "954", "top3": [7, 8, 1]}
+{"target_issue": "2026251", "kill": 7, "win": 50, "k": 80, "published_at": "2026-09-17 14:24:19", "last_issue": "2026250", "last_draw": "954", "top3": [7, 8, 1], "num": "777", "tens": 7, "hit": false}
+{"target_issue": "2026252", "kill": 8, "win": 70, "k": 48, "published_at": "2026-09-18 14:22:56", "last_issue": "2026251", "last_draw": "777", "top3": [8, 0, 3]}
